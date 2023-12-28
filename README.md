@@ -26,8 +26,10 @@ all details are correct (this can be too difficult, ask if in doubt).
 
 ## My implementation: Trainer Store Screen
 
-<center>
-    <img src="https://github.com/francesctr4/TrainerStoreScreen/assets/99948892/26629e2b-6f63-471a-b039-a657d5df3786" alt="Trainer Store Screen Image">
-</center>
+<p align="center">
+    <em>Results</em>
+</p>
 
-### _Results_
+<p align="center">
+    <img src="https://github.com/francesctr4/TrainerStoreScreen/assets/99948892/26629e2b-6f63-471a-b039-a657d5df3786" alt="Trainer Store Screen Image">
+</p>
