@@ -25,5 +25,9 @@ the widget tree. The screen must be as faithful as possible to the original desi
 all details are correct (this can be too difficult, ask if in doubt).
 
 ## My implementation: Trainer Store Screen
-![Results](https://github.com/francesctr4/TrainerStoreScreen/assets/99948892/26629e2b-6f63-471a-b039-a657d5df3786)
-### Results
+
+<center>
+    <img src="https://github.com/francesctr4/TrainerStoreScreen/assets/99948892/26629e2b-6f63-471a-b039-a657d5df3786" alt="Trainer Store Screen Image">
+</center>
+
+### _Results_
